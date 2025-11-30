@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1764444695968
+current_stage: None
+description: null
+last_updated_timestamp: 1764444695968
+name: XGBoostStrokePredictor_CI
+run_id: f3a2540cdd8745c98a9f4cf22994c211
+run_link: null
+source: file:///C:/Coding/SMSML_Adhis%20Mauliyahsa%20Ashafaat/Workflow-CI/MLProject/mlruns/496816888621811857/f3a2540cdd8745c98a9f4cf22994c211/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Coding/SMSML_Adhis%20Mauliyahsa%20Ashafaat/Workflow-CI/MLProject/mlruns/496816888621811857/f3a2540cdd8745c98a9f4cf22994c211/artifacts/model
+user_id: null
+version: 1

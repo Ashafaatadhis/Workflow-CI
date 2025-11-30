@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/SMSML_Adhis%20Mauliyahsa%20Ashafaat/Workflow-CI/MLProject/mlruns/544638952410384493/a56087413c48492295c9fda2590d81dc/artifacts
+end_time: 1764445744437
+entry_point_name: ''
+experiment_id: '544638952410384493'
+lifecycle_stage: active
+run_id: a56087413c48492295c9fda2590d81dc
+run_name: calm-bug-231
+run_uuid: a56087413c48492295c9fda2590d81dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764445744272
+status: 3
+tags: []
+user_id: Ashafaatadhis

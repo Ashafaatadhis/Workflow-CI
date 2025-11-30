@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Coding/SMSML_Adhis%20Mauliyahsa%20Ashafaat/Workflow-CI/MLProject/mlruns/496816888621811857
+creation_time: 1764444695417
+experiment_id: '496816888621811857'
+last_update_time: 1764444695417
+lifecycle_stage: active
+name: XGBoost_Baseline_Autolog

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/SMSML_Adhis%20Mauliyahsa%20Ashafaat/Workflow-CI/MLProject/mlruns/544638952410384493/d58bb1429a554918be904e9852c5af1a/artifacts
+end_time: 1764445944858
+entry_point_name: ''
+experiment_id: '544638952410384493'
+lifecycle_stage: active
+run_id: d58bb1429a554918be904e9852c5af1a
+run_name: burly-sponge-162
+run_uuid: d58bb1429a554918be904e9852c5af1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764445944721
+status: 3
+tags: []
+user_id: Ashafaatadhis

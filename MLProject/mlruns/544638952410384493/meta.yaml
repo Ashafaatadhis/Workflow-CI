@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Coding/SMSML_Adhis%20Mauliyahsa%20Ashafaat/Workflow-CI/MLProject/mlruns/544638952410384493
+creation_time: 1764445497943
+experiment_id: '544638952410384493'
+last_update_time: 1764445497943
+lifecycle_stage: active
+name: CI_XGBoost_Retraining
