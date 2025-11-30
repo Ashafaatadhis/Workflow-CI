@@ -9,7 +9,7 @@ on:
 env:
   IMAGE_NAME: "stroke-predictor"
   MODEL_NAME: "XGBoostStrokePredictor_CI"
-  MLPROJECT_DIR: "Workflow-CI/MLProject"
+  MLPROJECT_DIR: "MLProject"
   # Nama Eksperimen harus konsisten
   EXPERIMENT_NAME: "CI_XGBoost_Retraining"
 
